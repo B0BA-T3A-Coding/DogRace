@@ -1,0 +1,15 @@
+<world>
+
+   <properties>
+   
+      <defaultSize height='17' width='15'/>
+      
+      <objects>
+         <beeper x='5' y='3' num='1'/> //one row for location containing a beeper
+         <wall x='6' y='2' length='1' style='horizontal'/>
+         //for walls, the x, y is the origin, and the wall extends left or down respectively
+      </objects>
+      
+   </properties>
+   
+</world>
