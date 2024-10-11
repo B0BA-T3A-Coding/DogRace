@@ -1,15 +1,36 @@
 <world>
-
-   <properties>
-   
-      <defaultSize height='17' width='15'/>
-      
-      <objects>
-         <beeper x='5' y='3' num='1'/> //one row for location containing a beeper
-         <wall x='6' y='2' length='1' style='horizontal'/>
-         //for walls, the x, y is the origin, and the wall extends left or down respectively
-      </objects>
-      
-   </properties>
-   
+<properties>
+defaultSize height='10' width='10'/>
+</properties>
+<objects>
+<wall x='1' y='10' length='1' style='horizontal'/>
+<wall x='2' y='10' length='1' style='horizontal'/>
+<wall x='2' y='9' length='1' style='horizontal'/>
+<wall x='2' y='5' length='1' style='horizontal'/>
+<wall x='2' y='1' length='1' style='horizontal'/>
+<wall x='3' y='10' length='1' style='horizontal'/>
+<wall x='4' y='10' length='1' style='horizontal'/>
+<wall x='5' y='10' length='1' style='horizontal'/>
+<wall x='5' y='8' length='1' style='horizontal'/>
+<wall x='5' y='4' length='1' style='horizontal'/>
+<wall x='5' y='1' length='1' style='horizontal'/>
+<wall x='6' y='10' length='1' style='horizontal'/>
+<wall x='7' y='10' length='1' style='horizontal'/>
+<wall x='8' y='10' length='1' style='horizontal'/>
+<wall x='8' y='9' length='1' style='horizontal'/>
+<wall x='8' y='5' length='1' style='horizontal'/>
+<wall x='8' y='1' length='1' style='horizontal'/>
+<wall x='9' y='10' length='1' style='horizontal'/>
+<wall x='10' y='10' length='1' style='horizontal'/>
+<wall x='10' y='10' length='1' style='vertical'/>
+<wall x='10' y='9' length='1' style='vertical'/>
+<wall x='10' y='8' length='1' style='vertical'/>
+<wall x='10' y='7' length='1' style='vertical'/>
+<wall x='10' y='6' length='1' style='vertical'/>
+<wall x='10' y='5' length='1' style='vertical'/>
+<wall x='10' y='4' length='1' style='vertical'/>
+<wall x='10' y='3' length='1' style='vertical'/>
+<wall x='10' y='2' length='1' style='vertical'/>
+<wall x='10' y='1' length='1' style='vertical'/>
+</objects>
 </world>
